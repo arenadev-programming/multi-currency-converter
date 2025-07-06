@@ -38,7 +38,8 @@ Exécutez simplement le script :
 python convertisseur.py
 ```
 
-🧾 Authors
-Fordi Malanda
+## 🧾 Authors
 
-Ben Kisongo
+- Fordi Malanda
+
+- Ben Kisongo
