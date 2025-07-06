@@ -36,4 +36,9 @@ Exécutez simplement le script :
 
 ```bash
 python convertisseur.py
+```
 
+🧾 Authors
+Fordi Malanda
+
+Ben Kisongo
